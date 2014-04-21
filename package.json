@@ -1,0 +1,9 @@
+{
+    "name":"noderestapi",
+    "main":"server.js",
+    "dependencies":{
+        "express":"latest",
+        "mongoose":"latest",
+        "body-parser":"latest"
+    }
+}
